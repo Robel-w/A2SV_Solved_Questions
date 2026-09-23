@@ -15,5 +15,6 @@ class Solution:
                 curNum = curNum*10 + int(c)
             else:
                 curString += c
+
         return curString
         
